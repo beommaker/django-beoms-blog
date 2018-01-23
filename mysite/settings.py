@@ -25,7 +25,7 @@ SECRET_KEY = '63zjzt_l$!@dt29=u!^y0p38171sc6j+be5ii%p+f!c)!gal_u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]', 'beommaker.pythonanywhere.com']
 
 
 # Application definition
